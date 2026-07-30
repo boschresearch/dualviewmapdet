@@ -1,6 +1,6 @@
 # DualViewMapDet - Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking
 
-[**arXiv**](https://arxiv.org/abs/2604.25405) | [**Website**](http://dualviewmapdet.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/J1msvf0qv1I)
+[**arXiv**](https://arxiv.org/abs/2604.25405) | [**Website**](http://dualviewmapdet.cs.uni-freiburg.de/) | [**Video**](https://youtu.be/0p6te677lXU)
 
 This repository is the official implementation of the paper:
 
